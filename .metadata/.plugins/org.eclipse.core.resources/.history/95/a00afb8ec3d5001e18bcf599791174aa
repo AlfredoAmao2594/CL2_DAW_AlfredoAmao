@@ -1,0 +1,5 @@
+package com.cibertec.assessment.beans;
+
+public class SquareBean {
+
+}
